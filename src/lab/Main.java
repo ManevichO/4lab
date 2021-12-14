@@ -40,5 +40,7 @@ public class Main extends JFrame {
         setJMenuBar(menuBar);
         JMenu fileMenu = new JMenu("Файл");
         menuBar.add(fileMenu);
+
+
     }
 }
